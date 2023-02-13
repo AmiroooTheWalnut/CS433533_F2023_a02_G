@@ -3,9 +3,17 @@ Template code for A02G
 
 Author: {FirstName LastName} [{UA Email}]  
 Course: CS533 
-Date: Feb. [16], 2022
+Date: Feb. [16], 2023
 
-**PLEASE UPDATE THIS README**
+**PLEASE UPDATE THIS README TO INCLUDE:**
+* a text description of how to run your program, 
+* document any idiosyncrasies, behaviors, or bugs of note that you want us to be aware of when grading, and
+* any other comments that you feel are relevant.
+
+Executing program:
+
+
+Description:
 
 
 Included files (**PLEASE ADD/UPDATE THIS LIST**):
@@ -13,6 +21,7 @@ Included files (**PLEASE ADD/UPDATE THIS LIST**):
 * a02.js -- a sample skeletion javascript file for functionality
 * hdr.js -- a javascript library for parsing HDR images, [courtesy of Martin Ignac](https://github.com/vorg/parse-hdr)
 
+** The video is just a demo, please read the instructions on Overleaf carefully to implement your code
 
 **PLEASE PROVIDE ANY ATTRIBUTION HERE**
 Images obtained from the following resources:

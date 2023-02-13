@@ -3,7 +3,10 @@
 
   Author: Joshua A. Levine
   Email: josh@email.arizona.edu
-  Date: September 7, 2019
+  
+  Edit by: Amir Mohammad Esmaieeli Sikaroudi
+  
+  Date: Feb 12, 2023
  */
 
 
@@ -47,3 +50,5 @@ function upload() {
     }
   }
 }
+
+//To save PPM file you can use Blob with "FileSaver.js" and "saveAs" function or you can use Blob and "URL.createObjectURL()"
